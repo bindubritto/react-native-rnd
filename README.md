@@ -3,6 +3,7 @@
 ## Requirements and command list
 
 - Node 14
+
 - expo init app-name
 
 - Open XCode -> Preferences -> Locations -> Command Line Tools (This should be latest)
